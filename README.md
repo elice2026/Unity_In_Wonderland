@@ -65,49 +65,47 @@ This application is designed for:
 
 Clone the repository:
 
-### Installation
-
-Clone the repository:
-
 git clone https://github.com/elice/Unity-in-Wonderland.git
 Open the project using Unity Hub.
 
-Development Status
+---
+
+### Development Status
 Active Development
 
 New learning content and features are continuously being added.
 
-Roadmap
+### Roadmap
 Planned improvements include:
 
-Expanded learning stages
+- Expanded learning stages
 
-Additional practice modules
+- Additional practice modules
 
-Learning progress tracking
+- Learning progress tracking
 
-Performance and stability improvements
+- Performance and stability improvements
 
-Content expansion
-
-Contributing
+- Content expansion
+---
+### Contributing
 This project is maintained by Elice.
 
 For internal contributors, please follow the established development guidelines and workflow.
-
-License
+---
+### License
 This project is proprietary software developed and published by Elice.
 
 All rights reserved.
 
 Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
-
-Company
+---
+### Company
 Elice
 
 Elice provides software education platforms and training programs designed to help learners build real-world development skills.
 
 Website: https://elice.io
-
-Contact
+---
+### Contact
 For inquiries related to this project, please contact Elice.

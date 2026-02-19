@@ -75,6 +75,8 @@ Active Development
 
 New learning content and features are continuously being added.
 
+---
+
 ### Roadmap
 Planned improvements include:
 
@@ -87,25 +89,33 @@ Planned improvements include:
 - Performance and stability improvements
 
 - Content expansion
+  
 ---
+
 ### Contributing
 This project is maintained by Elice.
 
 For internal contributors, please follow the established development guidelines and workflow.
+
 ---
+
 ### License
 This project is proprietary software developed and published by Elice.
 
 All rights reserved.
 
 Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
+
 ---
+
 ### Company
 Elice
 
 Elice provides software education platforms and training programs designed to help learners build real-world development skills.
 
 Website: https://elice.io
+
 ---
+
 ### Contact
 For inquiries related to this project, please contact Elice.

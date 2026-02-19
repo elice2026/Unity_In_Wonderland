@@ -1,76 +1,69 @@
 # Unity in Wonderland
 
-Unity in Wonderland is an interactive educational application designed to help users learn Unity through structured lessons and hands-on practice.
+Unity in Wonderland is an interactive educational application designed to help learners build Unity development skills through structured lessons and hands-on practice.
 
-The application provides step-by-step learning stages, guided exercises, and practical challenges that allow learners to build real Unity development skills progressively.
-
-This project is developed and published by Elice.
+Developed and published by Elice, this platform provides a guided learning experience that enables users to understand, apply, and retain core Unity concepts through progressive training.
 
 ---
 
-## Overview
+## About
 
-Unity in Wonderland focuses on helping learners understand and apply Unity concepts through active learning.
+Unity in Wonderland is built to support beginners and aspiring developers in learning Unity in a clear, structured, and practical way.
 
-Instead of relying only on theoretical explanations, the application encourages users to learn by doing, solving problems, and completing practical exercises.
-
-Learners can progress through structured stages and gradually develop their skills from basic concepts to more advanced systems.
+The application focuses on active learning, allowing users to engage with real Unity workflows and develop practical skills through guided exercises and learning stages.
 
 ---
 
-## Key Features
+## Features
 
-- Structured learning stages
+- Structured learning curriculum
 - Interactive lessons and exercises
+- Step-by-step guided progression
 - Hands-on Unity practice
-- Progressive skill development
-- Guided learning experience
-- Beginner-friendly design
+- Beginner-friendly learning flow
+- Scalable learning architecture
 
 ---
 
-## Learning Topics
+## Learning Scope
 
-The application covers essential Unity development concepts including:
+Unity in Wonderland covers core Unity development concepts, including:
 
+- Unity Editor fundamentals
 - GameObject and Component system
-- Transform and object manipulation
-- Prefabs and instantiation
-- Collision and physics
-- UI system
-- Audio and visual effects
-- Basic gameplay systems
-- Project structure and workflow
+- Transform and object control
+- Prefab creation and management
+- Object instantiation
+- Collision and physics systems
+- UI system basics
+- Audio and visual feedback
+- Gameplay logic implementation
+- Project structure and best practices
 
 ---
 
-## Target Users
+## Target Audience
 
-- Beginners who want to learn Unity
+This application is designed for:
+
+- Unity beginners
 - Students learning game development
-- Developers new to Unity
-- Anyone interested in interactive Unity education
+- Developers transitioning to Unity
+- Educational institutions and training programs
 
 ---
 
-## Project Goal
+## Getting Started
 
-The goal of Unity in Wonderland is to provide a clear, structured, and practical learning experience that helps users gain real Unity development skills.
+### Requirements
 
----
+- Unity 6000.3.71f LTS
+- Git
+- Windows / macOS
 
-## Development
+### Installation
 
-This project is developed by Elice.
+Clone the repository:
 
----
-
-## Status
-
-In development
-
----
-
-## License
-
-This project is part of the Unity in Wonderland educational platform developed by Elice.
+```bash
+git clone https://github.com/elice/Unity-in-Wonderland.git

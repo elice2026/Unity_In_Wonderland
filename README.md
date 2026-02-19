@@ -2,7 +2,7 @@
 
 Unity in Wonderland is an interactive educational application designed to help learners build Unity development skills through structured lessons and hands-on practice.
 
-Developed and published by Elice, this platform provides a guided learning experience that enables users to understand, apply, and retain core Unity concepts through progressive training.
+Developed and published by **Elice**, this platform provides a guided learning experience that enables users to understand, apply, and retain core Unity concepts through progressive training.
 
 ---
 
@@ -10,7 +10,7 @@ Developed and published by Elice, this platform provides a guided learning exper
 
 Unity in Wonderland is built to support beginners and aspiring developers in learning Unity in a clear, structured, and practical way.
 
-The application focuses on active learning, allowing users to engage with real Unity workflows and develop practical skills through guided exercises and learning stages.
+The application emphasizes active learning, allowing users to engage with real Unity workflows and develop practical skills through guided exercises and structured learning stages.
 
 ---
 
@@ -27,11 +27,11 @@ The application focuses on active learning, allowing users to engage with real U
 
 ## Learning Scope
 
-Unity in Wonderland covers core Unity development concepts, including:
+Unity in Wonderland covers essential Unity development concepts, including:
 
 - Unity Editor fundamentals
 - GameObject and Component system
-- Transform and object control
+- Transform and object manipulation
 - Prefab creation and management
 - Object instantiation
 - Collision and physics systems
@@ -57,9 +57,9 @@ This application is designed for:
 
 ### Requirements
 
-- Unity 6000.3.71f LTS
+- Unity **6000.3.71f LTS**
 - Git
-- Windows / macOS
+- Windows or macOS
 
 ### Installation
 
@@ -67,3 +67,51 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/elice/Unity-in-Wonderland.git
+Open the project using Unity Hub.
+
+---
+Development Status
+
+Active Development
+
+New learning content and features are continuously being added.
+---
+Roadmap
+
+Planned improvements include:
+
+Expanded learning stages
+
+Additional practice modules
+
+Learning progress tracking
+
+Performance and stability improvements
+
+Content expansion
+---
+Contributing
+
+This project is maintained by Elice.
+
+For internal contributors, please follow the established development guidelines and workflow.
+---
+License
+
+This project is proprietary software developed and published by Elice.
+
+All rights reserved.
+
+Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
+---
+Company
+
+Elice
+
+Elice provides software education platforms and training programs designed to help learners build real-world development skills.
+
+Website: https://elice.io
+---
+Contact
+
+For inquiries related to this project, please contact Elice.
